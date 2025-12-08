@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Daksh Khandelwal</h1>
 
 <p align="center">
-  <img src="./assets/header-banner.gif" alt="Daksh Khandelwal Header" width="100%"/>
+  <img src="./assets/header.png" alt="Daksh Khandelwal Header" width="100%"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 Hi! I'm **Daksh**, a first-year student at **IIT Jodhpur** who loves turning ideas into small but meaningful projects.  
 Right now I'm exploring how **AI, data, and code** can be used to solve real-world problems.
 
-- 🎯 **Goal:** Become a strong, project-first *Data Scientist*
+- 🎯 **Goal:** Become a *Data Scientist*
 - 🧩 **Interests:** AI, Data Science, Machine Learning, Analytics
 - 🧪 **Currently learning:** Python, EDA, Statistics, AI tools, and practical ML workflows
 - 🌱 **Mindset:** Start small, iterate fast, document everything
@@ -73,8 +73,6 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 - 🤝 Start contributing to **beginner-friendly open source**
 - 🌐 Build a consistent **LinkedIn + GitHub presence**
 
-> **"Learning by building — one project at a time."**
-
 ---
 
 ### 📬 Get In Touch
@@ -93,17 +91,25 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 ---
 
-### 💙 Thanks for Visiting!
+<p align="center">  
+  💭 *"Learning by building — one project at a time."*
+</p>
+
+---
+
+
 
 <p align="center">
-  <img src="./assets/thanks-wave.gif" alt="Thanks for visiting!" width="100%"/>
+  <img src="./assets/thanks.png" alt="Thanks for visiting!" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-156-1E88E5?style=for-the-badge&labelColor=333333" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Followers-5-000000?style=for-the-badge&labelColor=333333" alt="Followers"/>
+
+  <!-- Followers auto-update -->
+  <img src="https://img.shields.io/github/followers/dk-khandelwal06?label=Followers&style=for-the-badge&color=000000&labelColor=333333" alt="GitHub Followers"/>
+
+  <!-- Profile Views auto-update -->
+  <img src="https://komarev.com/ghpvc/?username=dk-khandelwal06&style=for-the-badge&color=1E88E5&label=Profile%20Views" alt="Profile Views"/>
+
 </p>
 
-<p align="center">
-  <sub>Numbers are placeholders — feel free to update them anytime 🙂</sub>
-</p>
