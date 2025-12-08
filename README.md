@@ -89,7 +89,7 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 ---
 
-<p align="center" style="font-size: 72px; font-weight: bold;">
+<p align="center" style="font-size: 500px; font-weight: bold;">
   💭 <strong>"Learning by building — one project at a time."</strong>
 </p>
 
