@@ -89,7 +89,7 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 ---
 
-<h3 align="center">💭 "Learning by building — one project at a time."</h3>
+<h3 align="center"><em>💡 “Learning by building — one project at a time.”</em></h3>
 
 ---
 
