@@ -1,5 +1,3 @@
-<h1 align="center">Hey there! 👋 I'm Daksh Khandelwal</h1>
-
 <p align="center">
   <img src="./assets/header.png" alt="Daksh Khandelwal Header" width="100%"/>
 </p>
@@ -91,11 +89,12 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 ---
 
-<p align="center">  
-  💭 *"Learning by building — one project at a time."*
+<p align="center" style="font-size: 22px; font-weight: bold;">
+  💭 <strong>"Learning by building — one project at a time."</strong>
 </p>
 
 ---
+
 
 
 
