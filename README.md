@@ -90,6 +90,7 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 
 
+![snake gif](https://github.com/dk-khandelwal06/dk-khandelwal06/blob/output/github-contribution-grid-snake.svg)
 
 
 
