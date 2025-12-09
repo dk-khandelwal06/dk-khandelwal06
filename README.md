@@ -75,10 +75,17 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dk-khandelwal06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dk-khandelwal06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-khandelwal06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dk-khandelwal06&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-khandelwal06&layout=compact&theme=tokyonight&hide_border=false" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dk-khandelwal06&theme=tokyonight&hide_border=false" height="180em" />
+</p>
+
 
 
 
