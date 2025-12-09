@@ -78,14 +78,17 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dk-khandelwal06&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-khandelwal06&layout=compact&theme=tokyonight&hide_border=false" height="180em" />
+  <a href="https://github.com/dk-khandelwal06">
+    <img src="https://github-readme-stats.vercel.app/api?username=dk-khandelwal06&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" height="180em"/>
+  </a>
+  <a href="https://github.com/dk-khandelwal06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk-khandelwal06&theme=tokyonight&layout=compact" height="180em"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dk-khandelwal06&theme=tokyonight&hide_border=false" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=dk-khandelwal06&theme=tokyonight" height="180em"/>
 </p>
-
 
 
 
