@@ -40,11 +40,11 @@ Right now I'm exploring how **AI, data, and code** can be used to solve real-wor
 
 | 📂 Project | 🔗 Links | 🛠️ Highlights |
 |-----------|----------|---------------|
-| **Flashcards Quiz App** | [Live](https://flashcards-quiz-rouge.vercel.app/) · [Repo](https://github.com/dk-khandelwal06/Flashcards-Quiz) | Built with Cursor.ai · Flip-based UI · ML Basics Revision |
-| **Portfolio Website** | [Live](https://portfolio-website-sepia-one-78.vercel.app/) · [Repo](https://github.com/dk-khandelwal06/Portfolio-Website) | Personal branding · Cursor-generated UI |
-| **Business Campaign Analysis (Simple Threads)** | [Report](https://drive.google.com/file/d/1-bCcxSMICMtd-Z4GR3_RoLBGU5FDXUhS/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Business-Campaign-Analysis-for-Simple-Threads) | End-to-end Data Analytics · Customer Insights · Campaign Effectiveness · EDA & Visualization |
-| **Data Visualization & Correlation Analysis** | [Report](https://drive.google.com/file/d/1DMPYJl8HHZsfHTGIFrbsaLVgtjopp6Hm/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Data-Visualization-and-Correlation-Analysis) | Statistical Analysis · Box Plots · Correlation (Pearson & Point-Biserial) · Data Storytelling |
-| **Financial Market Dynamics (Linear Algebra)** | [Report](https://drive.google.com/file/d/1gJXUfXVHZxKFfwIkJvm_k4lDQFCKtv2i/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Understanding-Financial-Market-Dynamics) | Eigenvalues & Matrix Analysis · Shock Propagation · Python Simulation · Risk Modeling |
+| **🤖 Flashcards Quiz App** | [Live](https://flashcards-quiz-rouge.vercel.app/) · [Repo](https://github.com/dk-khandelwal06/Flashcards-Quiz) | Built with Cursor.ai · Flip-based UI · ML Basics Revision |
+| **🌐 Portfolio Website** | [Live](https://portfolio-website-sepia-one-78.vercel.app/) · [Repo](https://github.com/dk-khandelwal06/Portfolio-Website) | Personal branding · Cursor-generated UI |
+| **📊 Business Campaign Analysis (Simple Threads)** | [Report](https://drive.google.com/file/d/1-bCcxSMICMtd-Z4GR3_RoLBGU5FDXUhS/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Business-Campaign-Analysis-for-Simple-Threads) | End-to-end Data Analytics · Customer Insights · Campaign Effectiveness · EDA & Visualization |
+| **📊 Data Visualization & Correlation Analysis** | [Report](https://drive.google.com/file/d/1DMPYJl8HHZsfHTGIFrbsaLVgtjopp6Hm/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Data-Visualization-and-Correlation-Analysis) | Statistical Analysis · Box Plots · Correlation (Pearson & Point-Biserial) · Data Storytelling |
+| **🤖 Financial Market Dynamics (Linear Algebra)** | [Report](https://drive.google.com/file/d/1gJXUfXVHZxKFfwIkJvm_k4lDQFCKtv2i/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Understanding-Financial-Market-Dynamics) | Eigenvalues & Matrix Analysis · Shock Propagation · Python Simulation · Risk Modeling |
 
 ---
 
