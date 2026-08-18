@@ -224,16 +224,17 @@ Statistical case study analyzing the dynamics of India's quick commerce industry
 
 <br/>
 
-## `📊github_stats`
+## `📊 github_stats`
 
 <div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-khandelwal06&theme=radical&hide_border=true" width="48%" alt="GitHub streak"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=dk-khandelwal06&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="profile views"/>
 
 </div>
-
-<br/>
 
 ## `🤝connect_with_me`
 
