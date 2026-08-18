@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="./assets/header.png" alt="Daksh Khandelwal Header" width="100%"/>
-</p>
+<div align="center">
+  <img src="./assets/boy_waving.gif" width="90" /><br/>
+  <img src="./assets/header.png" alt="Daksh Khandelwal Header" width="100%" />
 
-<p align="center">
-🎓 1st-Year B.S. Student @ IIT Jodhpur <br>
-💡 Curious Mind · 👨‍💻 Tech Explorer · 📊 Future Data Scientist <br>
-</p>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=00B8D9&center=true&vCenter=true&width=600&lines=learning...;building...;exploring...;learning+%E2%86%92+building+%E2%86%92+exploring)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daksh-khandelwal-b02748391/">
@@ -18,98 +15,189 @@
     <img src="https://img.shields.io/badge/GMail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail"/>
   </a>
   <a href="https://portfolio-website-sepia-one-78.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/View%20Portfolio-2C3E50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+</div>
+
+<br/>
+
+## `🧑‍💻 whoami`
+
+```python
+profile = {
+    "🧐name": "Daksh Khandelwal",
+    "🧪education": "B.S. Applied AI & Data Science @ IIT Jodhpur",
+    "🌱year": 2nd,
+    "🎯goal": Become a Data Scientist,
+    "🧩interests": AI, Data Science, Web Development, Python, Open Source, Hackathons
+}
+
+def philosophy():
+    return "Turning what I learn into things I can actually build."
+
+print(philosophy())
+```
+
+<br/>
+
+## `🧭 journey`
+
+<div align="center">
+
+**🎓 2025 → 🌱 Year 1 → 🧱 Foundations → 🛠️ Projects → 🚀 2026 → 🔥 Year 2 (Current)**
+
+</div>
+
+<br/>
+
+## `🧱 year_1_foundations`
+
+<div align="center">
+
+> ### 🧮 Semester 1
+> Algorithmic Thinking · Data Analytics · Statistics & Probability · Linear Algebra & Numerical Analysis
+
+> ### 🤖 Semester 2
+> Foundations of AI · Numerical Optimization · Pattern Recognition · Visualization & Storytelling
+
+</div>
+
+<br/>
+
+## `🛠️ tech_stack`
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="220"/>
+</div>
+
+<div align="center">
+
+**👨‍💻 Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2C3E50?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**📊 Data & AI**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
+**📈 Analytics & Visualization**
+![Power BI](https://img.shields.io/badge/Power%20BI-2C3E50?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![Orange](https://img.shields.io/badge/Orange-2C3E50?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**🔧 Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-2C3E50?style=flat-square&logo=googlecolab&logoColor=F9AB00)
+
+**🤖 AI-Assisted Development**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-2C3E50?style=flat-square&logo=google&logoColor=8E75B2)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+</div>
+
+<br/>
+
+## `🚀 featured_projects`
+
+<div align="center">
+
+> ### 🌊 INBMG — Narmada Basin Monitoring
+> **AI-Driven River Basin Monitoring Framework**
+>
+> AI-driven Narmada River Basin monitoring framework with a 2025 Sentinel-2 river-health analysis using Google Earth Engine.
+>
+> [![Repository](https://img.shields.io/badge/💻%20Repository-00B8D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dk-khandelwal06/INBMG-Narmada-Basin-Monitoring)
+
+> ### 🤖 Jarvis — AI Voice Assistant
+> **Python-Powered Personal Voice Assistant**
+>
+> Python voice assistant with wake-word activation, website automation, music playback, news headlines and optional OpenAI-powered responses.
+>
+> [![Repository](https://img.shields.io/badge/💻%20Repository-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dk-khandelwal06/Jarvis-AI-Voice-Assistant)
+
+</div>
+
+<br/>
+
+## `📚 iitj_academic_projects`
+
+<div align="center">
+
+> ### 📈 Understanding Financial Market Dynamics
+> **Linear Algebra & Numerical Analysis — IIT Jodhpur**
+>
+> Financial-market stability and shock propagation explored through matrix analysis, eigenvalues and Python simulations.
+>
+> [![Repo](https://img.shields.io/badge/GitHub-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/dk-khandelwal06/Understanding-Financial-Market-Dynamics)
+> [![Report](https://img.shields.io/badge/Report-2563EB?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Q1NdnYspBqK8Y6Wg80XnbQpM73hD2IqI/view)
+> [![Slides](https://img.shields.io/badge/Slides-2563EB?style=flat-square&logo=googleslides&logoColor=white)](https://docs.google.com/presentation/d/1MaT9ULUTnOJM811os0maEWsZYxGtxrO2/edit?slide=id.p1#slide=id.p1)
+> [![Video](https://img.shields.io/badge/Video-2563EB?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ad5_OKd-Alu1Bmys9509KCXbwn8ytf5_/view)
+
+> ### 🛒 The Quick Commerce Conundrum
+> **Foundations of Statistics & Probability — IIT Jodhpur**
+>
+> Statistical case study of India's quick-commerce industry using data exploration, hypothesis testing and visualization.
+>
+> [![Repo](https://img.shields.io/badge/GitHub-F97316?style=flat-square&logo=github&logoColor=white)](https://github.com/dk-khandelwal06/The-Quick-Commerce-Conundrum-Report)
+> [![Report](https://img.shields.io/badge/Report-F97316?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jwbVc0GSNu1gbnrY5kkmBoqXxUHjKfvj/view?usp=sharing)
+> [![Slides](https://img.shields.io/badge/Slides-F97316?style=flat-square&logo=googleslides&logoColor=white)](https://docs.google.com/presentation/d/1jYBhWmcHjQY0IFyfoUTYGUPvff-W0mAI/edit?usp=sharing&ouid=103272819978757820613&rtpof=true&sd=true)
+
+</div>
+
+<br/>
+
+## `🎯 2027_goals`
+
+- 🚀 Build meaningful real-world AI projects
+- 🧠 Strengthen Python and Data Science foundations
+- 🔍 Explore deeper AI/ML concepts
+- 📖 Explore research opportunities
+- 🛠️ Improve technical depth
+- 💼 Build a stronger project portfolio
+
+<br/>
+
+## `📊 github_stats`
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dk-khandelwal06&theme=default&hide_border=true&background=FFFFFF00&ring=2C3E50&fire=2563EB&currStreakLabel=2C3E50" width="48%" alt="GitHub streak"/>
+
+<img src="https://komarev.com/ghpvc/?username=dk-khandelwal06&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="profile views"/>
+</div>
+
+<br/>
+
+## `🤝 connect_with_me`
+
+<div align="center">
+
+<a href="https://twitter.com/dk_khandelwal6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dk_khandelwal6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daksh-khandelwal-b02748391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daksh-khandelwal-b02748391" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=61583478904711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=61583478904711" height="30" width="40" /></a>
+<a href="https://instagram.com/dk_khandelwal.06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dk_khandelwal.06" height="30" width="40" /></a>
+<a href="https://github.com/dk-khandelwal06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dk-khandelwal06" height="30" width="40" /></a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C3E50?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-sepia-one-78.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dk.khandelwaliitj@gmail.com)
+
+</div>
 
 ---
 
-### 🧠 About Me
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="120"/>
+  <br/>
+  <img height="100" alt="Thanks for visiting" width="90%" src="https://raw.githubusercontent.com/Brunnerlivio/brunnerlivio/master/images/marquee.svg"/>
+</div>
 
-Hi! I'm **Daksh**, a first-year student at **IIT Jodhpur** who loves turning ideas into small but meaningful projects.  
-Right now I'm exploring how **AI, data, and code** can be used to solve real-world problems.
-
-- 🎯 **Goal:** Become a *Data Scientist*
-- 🧩 **Interests:** AI, Data Science, Machine Learning, Analytics
-- 🧪 **Currently learning:** Python, EDA, Statistics, AI tools, and practical ML workflows
-- 🌱 **Mindset:** Start small, iterate fast, document everything
-
----
-
-### 🚀 My Learning Projects
-
-| 📂 Project | 🔗 Links | 🛠️ Highlights |
-|-----------|----------|---------------|
-| **🤖 Flashcards Quiz App** | [Live](https://flashcards-quiz-rouge.vercel.app/) · [Repo](https://github.com/dk-khandelwal06/Flashcards-Quiz) | Built with Cursor.ai · Flip-based UI · ML Basics Revision |
-| **🌐 Portfolio Website** | [Live](https://portfolio-website-sepia-one-78.vercel.app/) · [Repo](https://github.com/dk-khandelwal06/Portfolio-Website) | Personal branding · Cursor-generated UI |
-| **📊 Business Campaign Analysis (Simple Threads)** | [Report](https://drive.google.com/file/d/1-bCcxSMICMtd-Z4GR3_RoLBGU5FDXUhS/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Business-Campaign-Analysis-for-Simple-Threads) | End-to-end Data Analytics · Customer Insights · Campaign Effectiveness · EDA & Visualization |
-| **📊 Data Visualization & Correlation Analysis** | [Report](https://drive.google.com/file/d/1DMPYJl8HHZsfHTGIFrbsaLVgtjopp6Hm/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Data-Visualization-and-Correlation-Analysis) | Statistical Analysis · Box Plots · Correlation (Pearson & Point-Biserial) · Data Storytelling |
-| **🤖 Financial Market Dynamics (Linear Algebra)** | [Report](https://drive.google.com/file/d/1gJXUfXVHZxKFfwIkJvm_k4lDQFCKtv2i/view?usp=sharing) · [Repo](https://github.com/dk-khandelwal06/Understanding-Financial-Market-Dynamics) | Eigenvalues & Matrix Analysis · Shock Propagation · Python Simulation · Risk Modeling |
-
----
-
-### 🛠️ Tools I’m Exploring
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Orange%20Data%20Mining-FF7F2A?style=for-the-badge" alt="Orange Data Mining"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Cursor.ai-000000?style=for-the-badge" alt="Cursor.ai"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-</p>
-
----
-
-### 🎯 2026 Goals
-
-- ✅ Complete **5+ hands-on AI/Data Science projects**
-- 🧠 Publish **mini blogs** about what I build and learn
-- 🤝 Start contributing to **beginner-friendly open source**
-- 🌐 Build a consistent **LinkedIn + GitHub presence**
-
----
-
-### 📬 Get In Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daksh-khandelwal-b02748391/">
-    <img src="https://img.shields.io/badge/LinkedIn%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect"/>
-  </a>
-  <a href="mailto:dk.khandelwaliitj@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
-  </a>
-  <a href="https://portfolio-website-sepia-one-78.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
-  </a>
-</p>
-
----
-
-<h3 align="center"><em>💡 “Learning by building — one project at a time.”</em></h3>
-
----
-
-
-
-
-
-<p align="center">
-  <img src="./assets/thanks.png" alt="Thanks for visiting!" width="100%"/>
-</p>
-
-<p align="center">
-
-  <!-- Followers auto-update -->
-  <img src="https://img.shields.io/github/followers/dk-khandelwal06?label=Followers&style=for-the-badge&color=000000&labelColor=333333" alt="GitHub Followers"/>
-
-  <!-- Profile Views auto-update -->
-  <img src="https://komarev.com/ghpvc/?username=dk-khandelwal06&style=for-the-badge&color=1E88E5&label=Profile%20Views" alt="Profile Views"/>
-
-</p>
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
