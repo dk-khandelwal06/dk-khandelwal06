@@ -182,9 +182,9 @@ Python voice assistant with wake-word activation, website automation, music play
 
 
 ## ```📚iitj_academic_projects```
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
 <img src="https://img.shields.io/badge/📈%20FINANCIAL%20MARKET%20DYNAMICS-2563EB?style=for-the-badge&labelColor=1E3A8A" />
 
@@ -198,7 +198,7 @@ Capstone project analyzing financial market stability and shock propagation usin
 [![Video](https://img.shields.io/badge/Video-000000?style=flat-square&logo=googledrive&logoColor=00e5ff)](https://drive.google.com/file/d/1ad5_OKd-Alu1Bmys9509KCXbwn8ytf5_/view)
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
 <img src="https://img.shields.io/badge/🛒%20QUICK%20COMMERCE%20CONUNDRUM-F97316?style=for-the-badge&labelColor=9A3412" />
 
