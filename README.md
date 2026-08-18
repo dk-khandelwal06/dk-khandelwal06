@@ -58,7 +58,7 @@ print(philosophy())
 
 ## `🧱year_1_foundations`
 
-<table>
+<table align="center">
 <tr>
 <td valign="center" width="50%" style="border-right: 1px solid #444;">
 
