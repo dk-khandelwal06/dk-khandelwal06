@@ -83,7 +83,7 @@ print(philosophy())
 
 ## 🛠️ `$ tech_stack`
 
-<table>
+<table align="center">
 <tr>
 
 <!-- LEFT : CODING GIF -->
@@ -142,9 +142,9 @@ print(philosophy())
 
 
 ## `🚀featured_projects`
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
 <a href="https://github.com/dk-khandelwal06/INBMG-Narmada-Basin-Monitoring">
 <img src="https://img.shields.io/badge/🌊%20INBMG%20—%20Narmada%20Basin%20Monitoring-00B8D9?style=for-the-badge&labelColor=0D1117"/>
@@ -160,7 +160,7 @@ AI-driven Narmada River Basin monitoring framework with a 2025 Sentinel-2 river-
 
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
 <a href="https://github.com/dk-khandelwal06/Jarvis-AI-Voice-Assistant">
 <img src="https://img.shields.io/badge/🤖%20Jarvis%20—%20AI%20Voice%20Assistant-9B59B6?style=for-the-badge&labelColor=0D1117"/>
