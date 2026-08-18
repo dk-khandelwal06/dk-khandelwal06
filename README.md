@@ -222,7 +222,6 @@ Statistical case study analyzing the dynamics of India's quick commerce industry
 - 🏆 Participate in hackathons & technical competitions
 - 🌍 Contribute to Open Source & grow my developer portfolio
 
-<br/>
 
 ## `📊 github_stats`
 
